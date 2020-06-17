@@ -2,5 +2,5 @@
 
 ### Desafio 1-1
 
-[x] Criar uma calculadora de IMC
-[x] Criar um programa para calcular a aposentadoria de uma pessoa.
+- [x] Criar uma calculadora de IMC
+- [x] Criar um programa para calcular a aposentadoria de uma pessoa.
