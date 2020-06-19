@@ -17,4 +17,8 @@
 
 ### Desafio 1-4
 
--[x] Criar um programa para realizar operações bancárias.
+- [x] Criar um programa para realizar operações bancárias.
+
+### Desafio 2-1
+
+- [x] Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.
