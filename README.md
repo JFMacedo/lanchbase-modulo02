@@ -22,3 +22,7 @@
 ### Desafio 2-1
 
 - [x] Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.
+
+### Desafio 2-2
+
+- [x] A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
